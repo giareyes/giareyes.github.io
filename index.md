@@ -1,4 +1,5 @@
 ## Gillian Reyes
+![Image](files/IMG_1689.jpeg)
 Hi, I'm Gia and I love computer graphics. 
 
 ### Projects go here? 
