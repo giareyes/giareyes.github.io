@@ -1,25 +1,13 @@
 ## Gillian Reyes
-Hi, I'm Gia and I love computer graphics. 
+![Image](files/IMG_1689.jpeg)
+Hi, I'm Gia. I studied Math and Computer Science at Yale University for my undergraduate degree, and wrote my thesis on physics simulations in computer graphics. 
 
-### Projects go here? 
+Currently, I am a Quantitative Strategist at Goldman Sachs. 
+(this website is a work in progress! Sorry it is very bare right now)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects go here!
+this will be filled in soon!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-### Maybe some fun stuff! 
+### Fun stuff
+- I love running, broomball, and bouldering!
+- In my free time, I like to draw and paint. 
