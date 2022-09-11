@@ -20,6 +20,15 @@ Created Blender Scripts with my own implementations of particle systems, L-syste
 #### Ray Tracer 
 I started a C++ implementation of a [ray tracer](https://github.com/giareyes/raytracer), following along [this tutorial](https://raytracing.github.io/books/RayTracingInOneWeekend.html). I hope to add my own unique extensions soon. 
 
+### Teaching
+During my undergrad, I TA'd almost every semester for both the Math and Computer Science Departments
+
+<b>CPSC 112: Introduction to Computer Programming</b>. Spring 2019, Spring 2020. Held a weekly session in which I would reinforce the concepts learned in class, and help them start their problem sets. I was responsible for grading my section's homework. I additionally hosted weekly office hours.
+
+<b>CPSC 201: Introduction to Computer Science</b>. Fall 2019. Held weekly office hours, and graded homeworks and exams. 
+
+<b>MATH 115: Calculus of Functions of One Variable II</b>. Fall 2017-Fall-2018. Held weekly office hours.
+
 ### Fun stuff
 - I love running, broomball, and bouldering!
 - In my free time, I like to draw and paint. 
