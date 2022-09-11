@@ -10,6 +10,12 @@ My thesis project mentioned above. In this project, I went through Barbic and Ja
 #### Shadow Hunters 
 For our software engineering class, my friends and I turned one of our favorite board games into an [online, multi-player game](https://shadowhunters.live/). I led the front-end development for our project, creating visuals using the Phaser JS Library. I also drew all the character art! Find the code for this project [here.](https://github.com/amritrau/shadow-hunters)
 
+#### Happy Blobs
+Created Blender Scripts with my own implementations of particle systems, L-systems, sweeping, and scripted motion. I incorporated these scripts into a [short animated clip](https://www.youtube.com/watch?v=_yVD4_2ke1Q&ab_channel=GiaDoodles).
+
+#### Ray Tracer 
+I started a C++ implementation of a [ray tracer](https://github.com/giareyes/raytracer), following along [this tutorial](https://raytracing.github.io/books/RayTracingInOneWeekend.html). I hope to add my own unique extensions soon. 
+
 ### Fun stuff
 - I love running, broomball, and bouldering!
 - In my free time, I like to draw and paint. 
